@@ -1,0 +1,14 @@
+public class Main { 
+public static void main(String[] args) {
+System.out.println("Hello World");
+}
+}
+
+/* 
+on line(1) remember Main needs to be capitalized
+on line(2) remember String needs to be capitalized
+on line(3) remember System needs to be capitalized
+(after all of that it is basically rote memory to remember where to put the curly brackets and such)
+
+Carry on and goodluck coding!
+*/
